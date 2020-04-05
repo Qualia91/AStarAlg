@@ -8,6 +8,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
+/**
+ * Main A* pathfinding class.
+ *
+ *
+ */
 public class Pathfinding {
 
     private Tile[][] tiles;
