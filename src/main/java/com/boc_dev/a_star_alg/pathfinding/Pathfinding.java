@@ -1,8 +1,8 @@
-package com.nick.wood.a_star_alg.pathfinding;
+package com.boc_dev.a_star_alg.pathfinding;
 
-import com.nick.wood.a_star_alg.map.Tile;
-import com.nick.wood.a_star_alg.map.TileType;
-import com.nick.wood.a_star_alg.utils.TileScoreComparator;
+import com.boc_dev.a_star_alg.map.Tile;
+import com.boc_dev.a_star_alg.map.TileType;
+import com.boc_dev.a_star_alg.utils.TileScoreComparator;
 
 import java.util.ArrayList;
 import java.util.List;

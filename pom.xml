@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.nick.wood.a_star_alg</groupId>
+    <groupId>com.boc_dev.a_star_alg</groupId>
     <artifactId>AStarAlg</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>

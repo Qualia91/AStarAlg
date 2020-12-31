@@ -1,4 +1,4 @@
-package com.nick.wood.a_star_alg.map;
+package com.boc_dev.a_star_alg.map;
 
 public enum TileType {
     BLACK(),

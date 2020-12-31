@@ -1,6 +1,6 @@
-package com.nick.wood.a_star_alg.utils;
+package com.boc_dev.a_star_alg.utils;
 
-import com.nick.wood.a_star_alg.map.Tile;
+import com.boc_dev.a_star_alg.map.Tile;
 
 import java.util.Comparator;
 
